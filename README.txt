@@ -7,3 +7,5 @@ SUCCESSFUL CLONE :)
 Successfully pulled Nikki's file and edited the file
 
 Bippidy Boppity Boo. Trying to make conflicts! YAY!
+
+Creating new conflicts after Nikki's merge.....
